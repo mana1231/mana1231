@@ -50,10 +50,11 @@
 - プログラミング：Python
 - フレームワーク / ライブラリ：PyTorch, Hugging Face Transformers, scikit-learn
 - その他：Git, LaTeX
-
+  
+<!--
 ## インターン
 - 株式会社MonotaRO Tech Summer Internship 2025 (データサイエンスグループA)
-
+-->
 
 ## 📈 GitHub統計
 <p align="center">
