@@ -56,11 +56,13 @@
 - 株式会社MonotaRO Tech Summer Internship 2025 (データサイエンスグループA)
 -->
 
+<!--
 ## 📈 GitHub統計
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mana1231&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mana1231&layout=compact&theme=tokyonight" height="150" />
 </p>
+-->
 
 <!--
 **mana1231/mana1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
