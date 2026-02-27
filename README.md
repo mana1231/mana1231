@@ -8,9 +8,13 @@
 
 ## 研究業績
 <!--
-- 花房 健太郎, 眞鍋 光汰, 前田 雄生, 前川 大輔, 梶原 智之, 早志 英朗, 中島 悠太, 長原 一<br>
-  アスペクトベースの感情極性分類および感情強度推定のための日本語データセットの構築.<br>
-  第20回言語処理若手シンポジウム (YANS), September 2025.
+- Kentaro Hanafusa, Kota Manabe, Yuki Maeda, Daisuke Maekawa, Tomoyuki Kajiwara, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara <br>
+A Japanese Dataset for Aspect-based Sentiment Polarity and Emotion Intensity Estimation <br>
+The 15th International Conference on Language Resources and Evaluation (LREC 2026), May 2026
+
+- Yuko Toda, Daisuke Maekawa, Kota Manabe, Eito Yoneyama, Kanade Nonomura, Yuki Fujiwara, Tomoyuki Kajiwara <br>
+HOTATE: A Japanese Dialogue Corpus Annotated with Responses of Private Thoughts and Public Statements <br>
+The 15th International Conference on Language Resources and Evaluation (LREC 2026), May 2026
 
 - Kota Manabe, Tomoyuki Kajiwara, Takashi Ninomiya, Isao Goto, Shonosuke Ishiwatari, Hiroshi Noji <br>
   Domain Adaptation of Image Encoder for Multimodal Manga Translation <br>
@@ -53,7 +57,12 @@
   > 眞鍋 光汰, 梶原 智之, 二宮 崇, 後藤　功雄, 石渡 祥之佑, 能地 宏 <br>
   > 漫画翻訳のための漫画用画像エンコーダの構築に向けて <br>
   > 第20回言語処理若手シンポジウム (YANS), September 2025
-
+<!--
+- 第20回言語処理若手シンポジウム (YANS) ハッカソン 審査員特別賞
+  > 花里太郎, 宮田莉奈, 松本和真, 長谷川令, 齋藤幸史郎. <br>
+  > 第20回言語処理若手シンポジウム分野交流ハッカソン DPO部門. <br>
+  > NLP若手の会第20回シンポジウム (YANS), September 2025.
+-->
 - 情報処理学会第87回全国大会 (IPSJ) 学生奨励賞
   > 荒川 花蓮, 加勢田 健照, 渡部 智裕, 眞鍋 光汰, 梶原 智之, 二宮 崇, 後藤 功雄<br>
   > 大規模言語モデルによる観光雑誌の文章校正<br>
@@ -70,6 +79,7 @@
 <!--
 ## インターン
 - 株式会社MonotaRO Tech Summer Internship 2025 (データサイエンスグループA)
+  - 
 -->
 
 <!--
