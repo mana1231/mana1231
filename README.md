@@ -10,11 +10,11 @@
 <!--
 - Kentaro Hanafusa, Kota Manabe, Yuki Maeda, Daisuke Maekawa, Tomoyuki Kajiwara, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara <br>
 A Japanese Dataset for Aspect-based Sentiment Polarity and Emotion Intensity Estimation <br>
-The 15th International Conference on Language Resources and Evaluation (LREC 2026), May 2026 [paper]()
+The 15th International Conference on Language Resources and Evaluation (LREC 2026), May 2026 [paper](https://lrec.elra.info/lrec2026-main-640)
 
 - Yuko Toda, Daisuke Maekawa, Kota Manabe, Eito Yoneyama, Kanade Nonomura, Yuki Fujiwara, Tomoyuki Kajiwara <br>
 HOTATE: A Japanese Dialogue Corpus Annotated with Responses of Private Thoughts and Public Statements <br>
-The 15th International Conference on Language Resources and Evaluation (LREC 2026), May 2026 [paper]()
+The 15th International Conference on Language Resources and Evaluation (LREC 2026), May 2026 [paper](https://lrec.elra.info/lrec2026-main-233)
 -->
 
 - Kota Manabe, Tomoyuki Kajiwara, Takashi Ninomiya, Isao Goto, Shonosuke Ishiwatari, Hiroshi Noji <br>
